@@ -1,7 +1,6 @@
 var thisDay = new Date();
 var paiva = thisDay.getDate();
 var kuukausi = thisDay.getMonth();
-var img2 = document.getElementById("day2img");
 
 function paiva1() {
     var img = document.getElementById("day1img");
