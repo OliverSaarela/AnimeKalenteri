@@ -3,7 +3,7 @@ body {
 }
 
 #sheet {
-    background-image: url(https://github.com/OliverSaarela/kalenteri/blob/master/background.jpg?raw=true);
+    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -21,8 +21,117 @@ th {
     margin-left: 20px;
     width: 250px;
     height: 250px;
+    border: 2px solid white;
 }
 
-p{
+p {
     color: white;
+}
+
+#day1img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}
+
+#day2img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}
+
+#day3img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}
+
+#day4img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}
+
+#day5img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}
+
+#day6img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day7img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day8img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day9img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day10img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day11img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day12img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day13img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day14img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day15img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day16img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day17img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day18img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day19img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day20img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day21img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day22img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day23img {
+    display: none;
+    width: 250px;
+    height: 250px;
+}#day24img {
+    display: none;
+    width: 250px;
+    height: 250px;
 }
