@@ -1,3 +1,5 @@
+var thisDay = new Date();
+
 function paivanTarkistus(){
-  console.log(getDay);
+  console.log(thisDay);
 }
