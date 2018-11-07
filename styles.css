@@ -1,0 +1,20 @@
+#sheet {
+    background-image: url(https://github.com/OliverSaarela/kalenteri/blob/master/jkalenteritausta.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0px;
+    margin: auto;
+}
+
+tr {
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+th {
+    margin-left: 20px;
+    width: 150px;
+    height: 150px;
+}
