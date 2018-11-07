@@ -3,7 +3,7 @@ body {
 }
 
 #sheet {
-    background-image: url("background.jpg");
+    background-image: url("https://github.com/OliverSaarela/kalenteri/blob/master/background.jpg?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
