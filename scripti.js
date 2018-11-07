@@ -3,9 +3,6 @@ var paiva = thisDay.getDate();
 var kuukausi = thisDay.getMonth();
 var img2 = document.getElementById("day2img");
 
-console.log(paiva + " " + kuukausi);
-
-
 function paiva1() {
     var img = document.getElementById("day1img");
     var text = document.getElementById("day1p");
