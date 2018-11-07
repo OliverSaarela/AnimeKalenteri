@@ -1,3 +1,7 @@
+body {
+    background: black;
+}
+
 #sheet {
     background-image: url(https://github.com/OliverSaarela/kalenteri/blob/master/jkalenteritausta.jpg?raw=true);
     background-repeat: no-repeat;
@@ -15,6 +19,6 @@ tr {
 
 th {
     margin-left: 20px;
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
 }
