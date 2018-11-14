@@ -22,8 +22,13 @@ th {
     height: 235px;
 }
 
+img:hover {
+    background-color: #c04d5a;
+}
+
 img{
     width: 220px;
     height: 220px;
+    border: solid 2px white;
 }
 
