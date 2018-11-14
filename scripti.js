@@ -4,6 +4,6 @@ var kuukausi = thisDay.getMonth();
 
 function kuvanVaihto(luukku) {
     if (luukku <= paiva && kuukausi == 10) {
-        document.getElementById("day" + luukku + "img").src = "img" + luukku + ".png";
+        document.getElementById("day" + luukku + "img").src = "images/img" + luukku + ".png";
     }
 }
