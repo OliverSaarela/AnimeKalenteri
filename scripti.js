@@ -4,7 +4,7 @@ var kuukausi = thisDay.getMonth();
 
 
 function kuvanVaihto(luukku) {
-    if (luukku <= paiva && kuukausi == 11) {
+    if (luukku <= paiva && kuukausi == 2) {
         document.getElementById("day" + luukku + "img").src = "images/img" + luukku + ".png" ;
 		document.getElementById("day" + luukku + "img").setAttribute("onclick","avaa()");
         document.getElementById("valittu").src = "images/img" + luukku + ".png" ;
